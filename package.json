@@ -15,7 +15,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com"
+        "url": "https://github.com/kkpalan12/cbot.git"
     },
     "dependencies": {
         "botbuilder": "~4.15.0",
